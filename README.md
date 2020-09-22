@@ -4,7 +4,7 @@
 ** Pair it with your smartphone with default password 1234 [this is for HC-05]**
 ** Build your Flutter app shared the main.dart and pubspec.yaml**
 
-    ** How To
+    ** How To***
 
 
 
