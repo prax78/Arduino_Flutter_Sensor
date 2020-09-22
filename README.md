@@ -5,4 +5,4 @@
 ** Build your Flutter app shared the main.dart and pubspec.yaml**
 
 ![alt text](https://github.com/prax78/Arduino_Flutter_Sensor/blob/master/Screenshot_20200922-195239.png)
-[alt text](https://github.com/prax78/Arduino_Flutter_Sensor/blob/master/ARDUINO_OP.gif)
+![alt text](https://github.com/prax78/Arduino_Flutter_Sensor/blob/master/ARDUINO_OP.gif)
