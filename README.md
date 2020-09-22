@@ -12,7 +12,10 @@
       5 Launch your app, ,make sure you have turned Bluetooth ON on your mobile and paired your HC-05.
       
 
-
+ ***How it Works
+     HC SR-04 is an unltrasonic sensor that sends the ultrasonic sound waves and calculates distance between the object from which waves got
+     bounced back.
+     HC-05 is the Bluetooth Module for Arduino.
 
 
 ![alt text](https://github.com/prax78/Arduino_Flutter_Sensor/blob/master/Screenshot_20200922-195239.png)
