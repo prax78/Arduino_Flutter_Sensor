@@ -3,8 +3,7 @@
 SoftwareSerial BTserial(10, 11); // RX | TX
 #define trigPin 13
 #define echoPin 12
-int sensorPin = A0; 
-int sensorValue = 0;
+
 
 void setup() {
   
