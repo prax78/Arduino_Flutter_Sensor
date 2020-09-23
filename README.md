@@ -1,5 +1,7 @@
 # Arduino Flutter Demo APP -Distance Calculator using HC-SR04 Sensor
    https://prakash78blog.wordpress.com/2020/09/22/object-distance-measuring-app-using-arduino-and-flutter/
+   
+   
 ** Please prepare Arduino with a sample sketch shared here**
 ** Pair it with your smartphone with default password 1234 [this is for HC-05]**
 ** Build your Flutter app shared the main.dart and pubspec.yaml**
